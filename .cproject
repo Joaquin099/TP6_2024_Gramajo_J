@@ -40,6 +40,14 @@
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/inc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/CMSIS/device&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/CMSIS/core&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM JG/src/ADC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM JG/src/DAC}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM JG/src/Definiciones}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM JG/src/Display}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM JG/src/LCD}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM JG/src/Menu}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM JG/src/pwm}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/PWM JG/src/Teclado}&quot;"/>
 								</option>
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.963525790" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c"/>
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s.766825126" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s"/>
@@ -166,4 +174,6 @@
 		</scannerConfigBuildInfo>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>
